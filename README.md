@@ -15,7 +15,7 @@
 ### Project Description
 The project aims to create a comprehensive dashboard to analyze the loans distributed by the bank. In this project, we have created 3 different dashboards that give an in-depth analysis of the loan distribution by various factors.
 
-
+![Bank Loan Overview Dashboard image](Loan%20Overview%20Dashboard.png)
 
 ### Data Source
 - Bank Loan Data: The data is available in the "financial_loan.csv" file which contains all the information about the financial loan provided by the bank.
